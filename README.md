@@ -1,3 +1,3 @@
 # fake-news
 fake news 
-this is a fake news detection 
+this is a detection using passive aggresive classifier
